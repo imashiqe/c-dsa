@@ -37,7 +37,7 @@ int main()
     for(i =1; i<= n; i++)
      {
         printf("%d\n", array[i]);
-        return 0;
+       
      }
 
     return 0;
