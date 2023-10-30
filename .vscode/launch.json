@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Ashiqe/Desktop/DIU/C datastucture",
-      "program": "c:/Users/Ashiqe/Desktop/DIU/C datastucture/build/Debug/outDebug",
+      "cwd": "c:/Users/Ashiqe/Desktop/dh/data stucture/code/c-dsa",
+      "program": "c:/Users/Ashiqe/Desktop/dh/data stucture/code/c-dsa/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
